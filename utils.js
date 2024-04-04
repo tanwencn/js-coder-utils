@@ -1,3 +1,10 @@
+/*!
+ * utils.js
+ * Version: 1.0.0
+ * License: MIT
+ * License details: https://opensource.org/licenses/MIT
+ */
+
 (function() {
     'use strict';
     /**
