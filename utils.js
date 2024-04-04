@@ -993,6 +993,5 @@
         HTMLElement.$mkel = HTMLElementMkel;
         HTMLElement.prototype.$before = HTMLElementBefore;
         HTMLElement.prototype.$monitor = HTMLElementMonitor;
-        console.info('Coder Utils version: 0.4.6');
     })();
 })();
